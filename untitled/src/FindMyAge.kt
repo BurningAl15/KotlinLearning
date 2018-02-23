@@ -2,6 +2,11 @@ import java.util.*
 
 fun main(args:Array<String>)
 {
+
+    ////////////////////////////
+    //First App made in kotlin//
+    ////////////////////////////
+
     //Input
     print("Enter yout Date Of Birth: ")
     var DOB:Int= readLine()!!.toInt()
